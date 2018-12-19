@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="492d868c-25f3-4af5-aa2c-e6616a99017c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1078227412">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="4" />
+          <entry key="energy" value="1" />
+          <entry key="ids" value="2" />
+          <entry key="php" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="4" />
+          <entry key="PHP" value="43" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="TSV" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="5" />
+          <entry key="ids" value="15" />
+          <entry key="php" value="7939" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="5" />
+          <entry key="HTML" value="1" />
+          <entry key="PHP" value="7938" />
+          <entry key="PLAIN_TEXT" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1645323546">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="5" />
+          <entry key="ids" value="3" />
+          <entry key="php" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="5" />
+          <entry key="PHP" value="14" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="10" />
+          <entry key="ids" value="25" />
+          <entry key="php" value="1382" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="10" />
+          <entry key="HTML" value="4" />
+          <entry key="PHP" value="1378" />
+          <entry key="PLAIN_TEXT" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-714121833">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="2708" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="2708" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-910635298">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="3" />
+          <entry key="php" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="3" />
+          <entry key="PHP" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="1121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="1121" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="416591284">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="2" />
+          <entry key="php" value="2400" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="2" />
+          <entry key="PHP" value="2400" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="5" />
+          <entry key="php" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="5" />
+          <entry key="PHP" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/searchforarecord.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="87" column="18" lean-forward="true" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inclusions/header.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modify.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="100" column="2" selection-start-line="10" selection-end-line="100" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inclusions/footer.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="85" lean-forward="true" selection-start-line="7" selection-end-line="18" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="e#6#91#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/createnewrecord.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="e#6#94#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/export.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appendfiletocurrent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inclusions/functions.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="20" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="n#str_contains#0;n#!!top" />
+                <element signature="n#getData#0;n#!!top" />
+                <element signature="e#790#969#0#PHP" />
+                <element signature="e#888#963#0#PHP" />
+                <element signature="n#getID#0;n#!!top" />
+                <element signature="e#1106#1462#0#PHP" />
+                <element signature="e#1292#1462#0#PHP" />
+                <element signature="e#2033#2311#0#PHP" />
+                <element signature="e#2135#2297#0#PHP" />
+                <element signature="n#addData#0;n#!!top" />
+                <element signature="e#2561#3345#0#PHP" />
+                <element signature="e#2930#3317#0#PHP" />
+                <element signature="n#deleteModal#0;n#!!top" />
+                <element signature="e#3490#3495#0#PHP" />
+                <element signature="e#4308#4313#0#PHP" />
+                <element signature="n#deleteId#0;n#!!top" />
+                <element signature="e#4939#5132#0#PHP" />
+                <element signature="e#4982#5126#0#PHP" />
+                <element signature="e#5074#5126#0#PHP" />
+                <element signature="e#5205#5284#0#PHP" />
+                <element signature="n#searchId#0;n#!!top" />
+                <element signature="e#5410#5903#0#PHP" />
+                <element signature="e#5590#5844#0#PHP" />
+                <element signature="e#5694#5834#0#PHP" />
+                <element signature="n#allRowsWithKeys#0;n#!!top" />
+                <element signature="e#6138#6361#0#PHP" />
+                <element signature="n#exportData#0;n#!!top" />
+                <element signature="e#6539#6780#0#PHP" />
+                <element signature="e#6668#6772#0#PHP" />
+                <element signature="e#6855#7014#0#PHP" />
+                <element signature="e#6961#7014#0#PHP" />
+                <element signature="e#7020#7097#0#PHP" />
+                <element signature="n#updateData#0;n#!!top" />
+                <element signature="e#8086#8249#0#PHP" />
+                <element signature="e#8181#8249#0#PHP" />
+                <element signature="e#8361#8454#0#PHP" />
+                <element signature="n#getSearchKeyToModify#0;n#!!top" />
+                <element signature="e#8903#9268#0#PHP" />
+                <element signature="e#8974#9262#0#PHP" />
+                <element signature="n#startIndex#0;n#!!top" />
+                <element signature="e#9392#9539#0#PHP" />
+                <element signature="e#9445#9539#0#PHP" />
+                <element signature="n#endIndex#0;n#!!top" />
+                <element signature="e#9616#9802#0#PHP" />
+                <element signature="e#9681#9802#0#PHP" />
+                <element signature="n#numPages#0;n#!!top" />
+                <element signature="e#9939#10144#0#PHP" />
+                <element signature="e#10044#10144#0#PHP" />
+                <element signature="e#10211#10216#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>th</find>
+      <find>Firstname</find>
+      <find>Lastname</find>
+      <find>fnam</find>
+      <find>$v</find>
+      <find>$delete_id</find>
+      <find>example</find>
+      <find>Page</find>
+      <find>navbar</find>
+      <find>class=&quot;col-sm-10&quot;</find>
+      <find>row</find>
+      <find>sm-2</find>
+      <find>md-10</find>
+      <find>text</find>
+      <find>$id</find>
+      <find>searchID</find>
+      <find>getData</find>
+      <find>modifyData</find>
+      <find>return $all_</find>
+      <find>$_GET</find>
+      <find>GET</find>
+      <find>POST</find>
+      <find>delete</find>
+      <find>import</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Institution</replace>
+      <replace>Student Residence</replace>
+      <replace>StudentResidence</replace>
+      <replace>streetno</replace>
+      <replace>StreetNumber</replace>
+      <replace>$i</replace>
+      <replace />
+      <replace>md-4</replace>
+      <replace>md-8</replace>
+      <replace>$_POST</replace>
+      <replace>GET</replace>
+      <replace>POST</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/upload.php" />
+        <option value="$PROJECT_DIR$/delete2.php" />
+        <option value="$PROJECT_DIR$/delete1.php" />
+        <option value="$PROJECT_DIR$/view.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
+        <option value="$PROJECT_DIR$/uploads/ids" />
+        <option value="$PROJECT_DIR$/inclusions/functions.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/uploads/energy.csv" />
+        <option value="$PROJECT_DIR$/uploads/ids.csv" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/inclusions/footer.inc.php" />
+        <option value="$PROJECT_DIR$/inclusions/header.inc.php" />
+        <option value="$PROJECT_DIR$/appendfiletocurrent.php" />
+        <option value="$PROJECT_DIR$/createnewrecord.php" />
+        <option value="$PROJECT_DIR$/export.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/modify.php" />
+        <option value="$PROJECT_DIR$/inclusions/functions.inc.php" />
+        <option value="$PROJECT_DIR$/searchforarecord.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="18" />
+    <option name="y" value="81" />
+    <option name="width" value="2709" />
+    <option name="height" value="1674" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="inclusions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lilian\PhpstormProjects\file_management" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lilian\PhpstormProjects\file_management\uploads" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="492d868c-25f3-4af5-aa2c-e6616a99017c" name="Default Changelist" comment="" />
+      <created>1540051132778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540051132778</updated>
+      <workItem from="1540051134200" duration="205000" />
+      <workItem from="1540052799574" duration="71880000" />
+      <workItem from="1540251329709" duration="21886000" />
+      <workItem from="1540319486302" duration="19439000" />
+      <workItem from="1540383435688" duration="18706000" />
+      <workItem from="1540407076897" duration="17190000" />
+      <workItem from="1540507431295" duration="9246000" />
+      <workItem from="1540733303050" duration="1088000" />
+      <workItem from="1540939167181" duration="2087000" />
+      <workItem from="1540973761087" duration="5117000" />
+      <workItem from="1541001926353" duration="6074000" />
+      <workItem from="1541367917312" duration="9253000" />
+      <workItem from="1542468626088" duration="376000" />
+      <workItem from="1542469331398" duration="10411000" />
+      <workItem from="1543123495836" duration="1385000" />
+      <workItem from="1543425806786" duration="317000" />
+      <workItem from="1543682117782" duration="1531000" />
+      <workItem from="1543684713794" duration="2003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="198194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1265" height="901" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15963607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32968536" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uploads/energy" />
+    <entry file="file://$PROJECT_DIR$/view.php" />
+    <entry file="file://$PROJECT_DIR$/upload.php" />
+    <entry file="file://$PROJECT_DIR$/delete.php" />
+    <entry file="file://$PROJECT_DIR$/delete1.php" />
+    <entry file="file://$PROJECT_DIR$/importdata.php" />
+    <entry file="file://$PROJECT_DIR$/uploads/ids.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/energy_export_file.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/pcre/pcre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="406" column="9" selection-start-line="406" selection-start-column="9" selection-end-line="406" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/energy.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="100" column="2" selection-start-line="10" selection-end-line="100" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclusions/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="85" lean-forward="true" selection-start-line="7" selection-end-line="18" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#6#91#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createnewrecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="e#6#94#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appendfiletocurrent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclusions/header.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inclusions/functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="20" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="n#str_contains#0;n#!!top" />
+            <element signature="n#getData#0;n#!!top" />
+            <element signature="e#790#969#0#PHP" />
+            <element signature="e#888#963#0#PHP" />
+            <element signature="n#getID#0;n#!!top" />
+            <element signature="e#1106#1462#0#PHP" />
+            <element signature="e#1292#1462#0#PHP" />
+            <element signature="e#2033#2311#0#PHP" />
+            <element signature="e#2135#2297#0#PHP" />
+            <element signature="n#addData#0;n#!!top" />
+            <element signature="e#2561#3345#0#PHP" />
+            <element signature="e#2930#3317#0#PHP" />
+            <element signature="n#deleteModal#0;n#!!top" />
+            <element signature="e#3490#3495#0#PHP" />
+            <element signature="e#4308#4313#0#PHP" />
+            <element signature="n#deleteId#0;n#!!top" />
+            <element signature="e#4939#5132#0#PHP" />
+            <element signature="e#4982#5126#0#PHP" />
+            <element signature="e#5074#5126#0#PHP" />
+            <element signature="e#5205#5284#0#PHP" />
+            <element signature="n#searchId#0;n#!!top" />
+            <element signature="e#5410#5903#0#PHP" />
+            <element signature="e#5590#5844#0#PHP" />
+            <element signature="e#5694#5834#0#PHP" />
+            <element signature="n#allRowsWithKeys#0;n#!!top" />
+            <element signature="e#6138#6361#0#PHP" />
+            <element signature="n#exportData#0;n#!!top" />
+            <element signature="e#6539#6780#0#PHP" />
+            <element signature="e#6668#6772#0#PHP" />
+            <element signature="e#6855#7014#0#PHP" />
+            <element signature="e#6961#7014#0#PHP" />
+            <element signature="e#7020#7097#0#PHP" />
+            <element signature="n#updateData#0;n#!!top" />
+            <element signature="e#8086#8249#0#PHP" />
+            <element signature="e#8181#8249#0#PHP" />
+            <element signature="e#8361#8454#0#PHP" />
+            <element signature="n#getSearchKeyToModify#0;n#!!top" />
+            <element signature="e#8903#9268#0#PHP" />
+            <element signature="e#8974#9262#0#PHP" />
+            <element signature="n#startIndex#0;n#!!top" />
+            <element signature="e#9392#9539#0#PHP" />
+            <element signature="e#9445#9539#0#PHP" />
+            <element signature="n#endIndex#0;n#!!top" />
+            <element signature="e#9616#9802#0#PHP" />
+            <element signature="e#9681#9802#0#PHP" />
+            <element signature="n#numPages#0;n#!!top" />
+            <element signature="e#9939#10144#0#PHP" />
+            <element signature="e#10044#10144#0#PHP" />
+            <element signature="e#10211#10216#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchforarecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="87" column="18" lean-forward="true" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
